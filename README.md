@@ -23,5 +23,5 @@ https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm
 
 
 
-![alt text]([[http://url/to/img.png](https://miro.medium.com/max/1400/0*94itySrJ7t7Ooh5R)])
+![alt text]([[[http://url/to/img.png](https://miro.medium.com/max/1400/0*94itySrJ7t7Ooh5R)](https://miro.medium.com/max/1400/0*94itySrJ7t7Ooh5R)])
 
