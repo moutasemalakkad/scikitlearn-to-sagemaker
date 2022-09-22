@@ -20,3 +20,8 @@ https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime_InvokeEndp
 
 With Tableau (might worth consiering QuickSight instead)
 https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm
+
+
+
+![alt text]([http://url/to/img.png](https://miro.medium.com/max/1400/0*94itySrJ7t7Ooh5R)
+
